@@ -4,4 +4,4 @@ Hello my name is braden in this tutorial I will show you how to change the resol
 
 [First steps](https://github.com/Braden0103/ITfinal/blob/main/First%20steps)
 
-[Done correctly]
+[Done correctly](https://github.com/Braden0103/ITfinal/blob/main/doneCorrectly.md)
