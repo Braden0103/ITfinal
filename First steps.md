@@ -8,3 +8,5 @@ Below are some pictures to help you along.
 
 ![image](https://i.ytimg.com/vi/3gywceB9tcU/maxresdefault.jpg)
 
+![main page](https://github.com/Braden0103/ITfinal/blob/main/README.md)
+
