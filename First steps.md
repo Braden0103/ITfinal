@@ -2,4 +2,4 @@
 
 First you want to type into the search bar next to the windows logo in the bottom right of your screen. You want to type "change resoultion of display" You next want to go to the display resloution tab and change the resloution to your wanted number. Click that number then the screen should flash black. Windows will prompt you to keep changes select yes. IF you followed the directions then your display resloution should be changed. 
 
-(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.itprotoday.com%2Fsites%2Fitprotoday.com%2Ffiles%2Fstyles%2Farticle_featured_retina%2Fpublic%2Fwindowslightwallpaper_1.jpg%3Fitok%3DWd1MIL09&imgrefurl=https%3A%2F%2Fwww.itprotoday.com%2Fwindows-10%2Fmicrosofts-windows-10-development-process-changes&tbnid=KBm3M9rfR30DiM&vet=12ahUKEwjt7YOvj9rtAhVQG6wKHaxVBkIQMygQegUIARDCAQ..i&docid=Y_jM37GFcc9ubM&w=1540&h=800&q=windows%20logo%2010&ved=2ahUKEwjt7YOvj9rtAhVQG6wKHaxVBkIQMygQegUIARDCAQ)
+![windows](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJi8GxG0gP9emtldGI-qB2C_yZ_6Aop-MVrQ&usqp=CAU)
